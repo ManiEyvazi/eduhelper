@@ -14,5 +14,7 @@ setup(
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
+        "Download from :: https://github.com/ManiEyvazi/eduhelper.git",
     ],
+
 )
